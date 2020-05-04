@@ -289,7 +289,7 @@ while(w==1){
 			break;
 			}
 		case 5:
-			cout<<"Thank you for using group 3's sorthing algorithm\n Stay safe"<<endl;
+			cout<<"Thank you for using Trust's sorthing algorithm\n Stay safe"<<endl;
 			w=2;
 			break;
 		default:
